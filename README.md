@@ -1,2 +1,2 @@
-# __ Recetario__
+# __Recetario__
 ## _Construccion de Software_
